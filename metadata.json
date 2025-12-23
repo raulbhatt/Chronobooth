@@ -1,0 +1,8 @@
+{
+  "name": "ChronoBooth",
+  "description": "A time-traveling photo booth that transports you to historical eras using Gemini AI. Analyze your photos and edit your historical selfies with text prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
